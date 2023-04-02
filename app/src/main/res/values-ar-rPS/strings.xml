@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة سلسلة الأرقام </string>
+
+    <string name="et_full_name">الاسم كاملًا</string>
+    <string name="et_email">عنوان البريد الإلكتروني </string>
+    <string name="et_user_name">اسم المستخدم </string>
+    <string name="et_pass"> كلمة المرور</string>
+    <string name="er_re_password">تأكيد كلمة المرور</string>
+    <string name="rb_male">ذكر</string>
+    <string name="rb_female">أنثى</string>
+    <string name="btn_save">حفظ </string>
+    <string name="tv_Welcome">أهلًا بِك في لعبة سلسة الأرقام </string>
+    <string name="btn_login">دخول </string>
+    <string name="btn_register">تسجيل جديد </string>
+    <string name="cb_remember_me">تذكّرني </string>
+    <string name="game_tv_score"> النتيجة :  </string>
+    <string name="game_welcome"> أهــلًا بِك ...</string>
+    <string name="game_tv_years"> سنـة</string>
+    <string name="game_enter_number"> أدخل الرقم المخفي  </string>
+    <string name="game_btn_check">افحص </string>
+    <string name="game_btn_new_game">لعبـة جديـدة </string>
+    <string name="setting_btn_show_all_games">رؤية جميع الألعاب </string>
+    <string name="setting_btn_show_last_game">رؤية تاريخ آخر لعبة </string>
+    <string name="setting_btn_change_pass">تغيير كلمة المرور </string>
+    <string name="setting_btn_clear_all_games"> مسح جميع الألعاب</string>
+    <string name="reg_date_birth"> تاريخ الميلاد  </string>
+    <string name="game_logOut"> تسجيل خروج  </string>
+    <string name="delete_account">حذف الحساب </string>
+    <string name="toast_bravo"> أحسنـت </string>
+    <string name="toast_error"> خطــأ  </string>
+    <string name="select_dob">حدد تاريخ ميلادك  </string>
+    <string name="change_password"> كلمة المرور الجديدة  </string>
+    <string name="save_change"> حفظ التغيير  </string>
+    <string name="log_out">تسجيل خروج</string>
+    <string name="title_datePicker">حدّد تاريخ الميلاد </string>
+
+
+    <string name="toast_please_enter_userName">الرجاء ادخال اسم المستخدم </string>
+    <string name="toast_please_enter_password">الرجاء ادخال كلمة المرور</string>
+    <string name="toast_please_add_picture">الرجاء اضافة صورة</string>
+    <string name="toast_please_enter_fullName">الرجاء اضافة الاسم كاملًا</string>
+    <string name="toast_please_enter_email">الرجاء اضافة الايميل</string>
+    <string name="toast_please_enter_DofB">الرجاء اضافة تاريخ الميلاد</string>
+    <string name="toast_please_confirm_password">الرجاء تأكيد كلمة المرور</string>
+    <string name="toast_not_match">الكلمتان غير متطابقتان !! </string>
+    <string name="toast_pleas_check_data"> الرجاء التحقق من البيانات المدخلة أو أنشئ حساب </string>
+    <string name="toast_enter_to_new_game">اضغط على لعبة جديدة ، لتلعب من جديد</string>
+    <string name="toast_logOut">تم تسجيل الخروج </string>
+    <string name="toast_delete_account">تم حذف الحسـاب </string>
+    <string name="toast_in_it">أنت فيها فعليـًّـا ! </string>
+    <string name="toast_please_enter_full_data">الرجاء ادخال كافة البيانات </string>
+    <string name="toast_clear_game">تمّ مسح جميع الألعاب</string>
+    <string name="toast_change_password">تم تغير كلمة المرور بنجاح </string>
+
+
+
+    <string-array name="reg_sp_country">
+        <item>الدولة</item>
+        <item>فلسطين</item>
+        <item>سوريا</item>
+        <item>الأردن</item>
+        <item>لبنان</item>
+        <item>الولايات المتّحدة الأمريكية</item>
+    </string-array>
+</resources>

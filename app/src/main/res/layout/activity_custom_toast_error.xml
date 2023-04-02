@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/toast_message_error"
+        android:layout_width="207dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_toast_error"
+        android:gravity="center"
+        android:text="@string/toast_error"
+        android:textColor="#FFEDB8"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/error"
+        android:layout_width="match_parent"
+        android:layout_height="433dp"
+        android:src="@drawable/error_3">
+
+    </pl.droidsonroids.gif.GifImageView>
+</LinearLayout>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Number Series Game</string>
+
+    <string name="et_full_name">Full Name</string>
+    <string name="et_email">Email Address</string>
+    <string name="et_user_name">User Name</string>
+    <string name="et_pass">Password </string>
+    <string name="er_re_password">Re_Password</string>
+    <string name="rb_male">Male</string>
+    <string name="rb_female">Female</string>
+    <string name="btn_save">Save</string>
+    <string name="tv_Welcome">Welcome to the number series game</string>
+    <string name="btn_login">Login </string>
+    <string name="btn_register">Register </string>
+    <string name="cb_remember_me">Remember me </string>
+    <string name="game_tv_score"> Score : </string>
+    <string name="game_welcome"> Welcome...</string>
+    <string name="game_tv_years"> Years</string>
+    <string name="game_enter_number"> Enter the hidden number </string>
+    <string name="game_btn_check">Check</string>
+    <string name="game_btn_new_game">New Game</string>
+    <string name="setting_btn_show_all_games">Show All Games</string>
+    <string name="setting_btn_show_last_game">Show Last Game Date</string>
+    <string name="setting_btn_change_pass">Change Password</string>
+    <string name="setting_btn_clear_all_games"> Clear All Games </string>
+    <string name="reg_date_birth"> Date of Birth </string>
+    <string name="game_logOut"> Log Out </string>
+    <string name="toast_bravo"> Bravo  </string>
+    <string name="toast_error"> Error  </string>
+    <string name="select_dob"> Select your date of birth  </string>
+    <string name="change_password"> New Password  </string>
+    <string name="save_change"> Save Change </string>
+    <string name="log_out">Log Out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="title_datePicker">Select Date of Birth</string>
+
+
+    <string name="toast_please_enter_userName">Please , Enter User Name</string>
+    <string name="toast_please_enter_password">Please , Enter Password</string>
+    <string name="toast_please_add_picture">   Please , Add Picture</string>
+    <string name="toast_please_enter_fullName">Please , Enter Full Name</string>
+    <string name="toast_please_enter_email">   Please , Enter Email</string>
+    <string name="toast_please_enter_DofB">    Please , Enter Date of Birth </string>
+    <string name="toast_please_confirm_password">Please , confirm the password</string>
+    <string name="toast_not_match">The passwords does not match !!</string>
+    <string name="toast_pleas_check_data">Please check the data entered OR Create Account</string>
+    <string name="toast_enter_to_new_game">Click on a new game to play again</string>
+    <string name="toast_logOut">Log Out Done</string>
+    <string name="toast_delete_account">Delete Account Done</string>
+    <string name="toast_in_it">You are actually in it</string>
+    <string name="toast_please_enter_full_data">Please , Enter Full Data</string>
+    <string name="toast_clear_game">All games deleted</string>
+    <string name="toast_change_password">Password Changed Successfully</string>
+
+    <string-array name="reg_sp_country">
+        <item>Country</item>
+        <item>palestine</item>
+        <item>Syrian</item>
+        <item>Jordan</item>
+        <item>Lebanon</item>
+        <item>USA</item>
+    </string-array>
+
+
+</resources>
